@@ -5,4 +5,4 @@
 
 
 -------------------------------Maqbool's  project--------------------------------------
-![Screenshot](output.png)
+![Logo](https://ibb.co/tbwp3T3)
